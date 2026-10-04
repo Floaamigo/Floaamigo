@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! Soy Florencia Amigo 👋
 ### Analista de Datos Jr. | Socióloga | Apasionada por el Data Storytelling y la Visualización
 
