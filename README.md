@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Floaamigo/Floaamigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Florencia Amigo 👋
+### Analista de Datos Jr. | Socióloga | Apasionada por el Data Storytelling y la Visualización
 
-Here are some ideas to get you started:
+Soy una profesional con formación en Sociología y un diplomado en Estadística en curso (UC), especializada en transformar datos complejos en historias claras y accionables para la toma de decisiones estratégicas. Combino el rigor metodológico cuantitativo con un fuerte enfoque de negocio en áreas como **Business Intelligence, Customer Experience y People Analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológico y Herramientas
+
+* **Lenguajes y Consultas:** SQL (JOINs, CTEs, subconsultas), Python (Pandas, NumPy), R, DAX.
+* **Visualización y Reportería:** Power BI (modelamiento, dashboards ejecutivos y storytelling), Tableau, Excel Avanzado (tablas dinámicas, BUSCARV).
+* **Análisis y Metodologías:** Limpieza y modelado de datos, definición de KPIs, análisis de embudos de conversión (*funnels*), análisis de cohorte/retención, pruebas de hipótesis y análisis exploratorio (EDA).
+* **Entornos y Control de Versiones:** Jupyter Notebook, Google Colab, SPSS, GitHub.
+
