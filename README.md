@@ -1,7 +1,7 @@
 # ¡Hola! Soy Florencia Amigo 👋
 ### Analista de Datos Jr. | Socióloga | Apasionada por el Data Storytelling y la Visualización
 
-Soy una profesional con formación en Sociología y un diplomado en Estadística en curso (UC), especializada en transformar datos complejos en historias claras y accionables para la toma de decisiones estratégicas. Combino el rigor metodológico cuantitativo con un fuerte enfoque de negocio en áreas como **Business Intelligence, Customer Experience y People Analytics**.
+Soy socióloga con formación en análisis de datos, he estado cursando un diplomado en Estadística (UC) y complementándolo con un curso de Data Analyst, especializada en transformar datos complejos en historias claras y accionables para la toma de decisiones estratégicas. Combino el rigor metodológico cuantitativo con un fuerte enfoque de negocio en áreas como **Business Intelligence, Customer Experience y People Analytics**.
 
 ---
 
