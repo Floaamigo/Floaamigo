@@ -25,7 +25,7 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
 ![Gráfico Movilidad](images/traffic_vs_gdp_2024.png)
 
 * **Stack:** Python (Pandas, Seaborn, Matplotlib)
-* **[🔗 Ver Repositorio Completo](https://github.com/TU_USUARIO/movilidad-urbana-latam)**
+* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/movilidad-urbana-latam)**
 
 ---
 
@@ -39,7 +39,7 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
 ![Gráfico Retención Cohortes](images/retencion_cohortes.png)
 
 * **Stack:** Python, SQL, Análisis Financiero, Test A/B (Test Z)
-* **[🔗 Ver Repositorio Completo](https://github.com/TU_USUARIO/diagnostico-estrategico-rappiplus)**
+* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/diagnostico-estrategico-rappiplus)**
 
 ---
 
@@ -52,13 +52,13 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
 ![Gráfico Grupo de Uso](images/grupo_uso.png)
 
 * **Stack:** Python (Pandas, Seaborn), Detección de Outliers, Segmentación
-* **[🔗 Ver Repositorio Completo](https://github.com/TU_USUARIO/analisis-telecomunicaciones-connectatel)**
+* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/analisis-telecomunicaciones-connectatel)**
 
 ---
 
 ## 🤝 ¿Trabajamos juntos?
-Estoy construyendo mi camino profesional en el mundo del análisis de datos y siempre me entusiasma sumar valor a nuevos proyectos y equipos. Si buscas a alguien con rigor analítico, visión de negocio y pasión por transformar datos en decisiones claras, ¡me encantaría que conectemos!
+Me encuentro en pleno crecimiento laboral y buscando oportunidades para aportar valor en áreas de análisis de negocio y BI. Si tienes una propuesta, una vacante o simplemente te gustaría conversar sobre datos y *storytelling*, ¡escríbeme y hablemos!
 
-* 📧 **Correo:** floamigomartinez@gmail.com
-* 💼 **LinkedIn:** https://www.linkedin.com/in/florencia-amigo-mar/
+* 📧 **Correo:** floamigomartinezz@gmail.com
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/florencia-amigo-mar/)]
 * 📍 **Ubicación:** Santiago, Chile (Disponible para modalidad híbrida o presencial)
