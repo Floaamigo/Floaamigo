@@ -22,7 +22,7 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
 * **Contexto y Problema:** Simulación analítica para el Banco Interamericano de Desarrollo (BID) para evaluar si el crecimiento económico (PIB per cápita) de 15 metrópolis de América Latina está ligado al colapso vial (`jams_delay`).
 * **Hallazgo Principal:** Se demostró un desacople entre la riqueza y el tráfico; ciudades como Montevideo muestran congestión mínima a pesar de su desarrollo, mientras que Ciudad de México o Bogotá combinan economías fuertes con tráfico crítico.
 
-![Gráfico Movilidad](https://raw.githubusercontent.com/TU_USUARIO/movilidad-urbana-latam/main/images/traffic_vs_gdp_2024.png)
+![Gráfico Movilidad](images/traffic_vs_gdp_2024.png)
 
 * **Stack:** Python (Pandas, Seaborn, Matplotlib)
 * **[🔗 Ver Repositorio Completo](https://github.com/TU_USUARIO/movilidad-urbana-latam)**
@@ -36,7 +36,7 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
   - La mayor fricción (*drop-off*) ocurre en la pasarela de pagos (`Add_payment_info`).
   - La retención temprana es sólida, manteniéndose estable entre el 40% y el 44% hasta la semana 3.
 
-![Gráfico Retención Cohortes](https://raw.githubusercontent.com/TU_USUARIO/diagnostico-estrategico-rappiplus/main/images/retencion_cohortes.png)
+![Gráfico Retención Cohortes](images/retencion_cohortes.png)
 
 * **Stack:** Python, SQL, Análisis Financiero, Test A/B (Test Z)
 * **[🔗 Ver Repositorio Completo](https://github.com/TU_USUARIO/diagnostico-estrategico-rappiplus)**
@@ -49,13 +49,16 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
   - Se segmentó a los usuarios por edad (destacando una gran actividad y lealtad en Adultos Mayores) y por nivel de uso (73.7% en uso medio).
   - Se identificó que los SMS están en desuso, por lo que se recomendó eliminar los "SMS ilimitados" y potenciar planes orientados a datos y voz.
 
-![Gráfico Grupo de Uso](https://raw.githubusercontent.com/TU_USUARIO/analisis-telecomunicaciones-connectatel/main/images/grupo_uso.png)
+![Gráfico Grupo de Uso](images/grupo_uso.png)
 
 * **Stack:** Python (Pandas, Seaborn), Detección de Outliers, Segmentación
 * **[🔗 Ver Repositorio Completo](https://github.com/TU_USUARIO/analisis-telecomunicaciones-connectatel)**
 
 ---
 
-## 📬 Contacto
-* 📧 **Correo:** flor.amigo.martinez@gmail.com
-* 📍 **Ubicación:** Santiago, Chile
+## 🤝 ¿Trabajamos juntos?
+Estoy construyendo mi camino profesional en el mundo del análisis de datos y siempre me entusiasma sumar valor a nuevos proyectos y equipos. Si buscas a alguien con rigor analítico, visión de negocio y pasión por transformar datos en decisiones claras, ¡me encantaría que conectemos!
+
+* 📧 **Correo:** floamigomartinez@gmail.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/florencia-amigo-mar/
+* 📍 **Ubicación:** Santiago, Chile (Disponible para modalidad híbrida o presencial)
