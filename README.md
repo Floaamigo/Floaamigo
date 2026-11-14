@@ -25,7 +25,7 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
 ![Gráfico Movilidad](images/traffic_vs_gdp_2024.png)
 
 * **Stack:** Python (Pandas, Seaborn, Matplotlib)
-* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/movilidad-urbana-latam)**
+* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/estudio-movilidad-urbana-latam)**
 
 ---
 
@@ -52,7 +52,7 @@ Soy socióloga con formación en análisis de datos, cursando un diplomado en Es
 ![Gráfico Grupo de Uso](images/grupo_uso.png)
 
 * **Stack:** Python (Pandas, Seaborn), Detección de Outliers, Segmentación
-* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/analisis-telecomunicaciones-connectatel)**
+* **[🔗 Ver Repositorio Completo](https://github.com/Floaamigo/segmentacion-clientes-telecom)**
 
 ---
 
